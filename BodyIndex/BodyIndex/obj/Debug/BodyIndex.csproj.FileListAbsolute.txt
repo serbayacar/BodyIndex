@@ -1,0 +1,10 @@
+C:\Users\Serbay\Documents\Github\BodyIndex\BodyIndex\BodyIndex\bin\Debug\BodyIndex.exe.config
+C:\Users\Serbay\Documents\Github\BodyIndex\BodyIndex\BodyIndex\bin\Debug\BodyIndex.exe
+C:\Users\Serbay\Documents\Github\BodyIndex\BodyIndex\BodyIndex\bin\Debug\BodyIndex.pdb
+C:\Users\Serbay\Documents\Github\BodyIndex\BodyIndex\BodyIndex\obj\Debug\BodyIndex.csprojResolveAssemblyReference.cache
+C:\Users\Serbay\Documents\Github\BodyIndex\BodyIndex\BodyIndex\obj\Debug\BodyIndex.frmBodyIndex.resources
+C:\Users\Serbay\Documents\Github\BodyIndex\BodyIndex\BodyIndex\obj\Debug\BodyIndex.Properties.Resources.resources
+C:\Users\Serbay\Documents\Github\BodyIndex\BodyIndex\BodyIndex\obj\Debug\BodyIndex.csproj.GenerateResource.Cache
+C:\Users\Serbay\Documents\Github\BodyIndex\BodyIndex\BodyIndex\obj\Debug\BodyIndex.exe
+C:\Users\Serbay\Documents\Github\BodyIndex\BodyIndex\BodyIndex\obj\Debug\BodyIndex.pdb
+C:\Users\Serbay\Documents\Github\BodyIndex\BodyIndex\BodyIndex\obj\Debug\BodyIndex.Help.resources
